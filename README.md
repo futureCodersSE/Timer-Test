@@ -11,7 +11,7 @@ Amend the Timer.js component file to add state variables, a function to set the 
 Add your own styling (an empty class **.timerStyle** has been created and you can add layout or other elements)
 
 # Example UI
-[Timer-Example.jpg](https://github.com/futureCodersSE/Timer-Test/Timer-Example.jpg)
+[Timer-Example.jpg](https://github.com/futureCodersSE/Timer-Test/blob/main/timer/Timer-Example.jpg)
 
 # To complete the test
 Fork this repository  
