@@ -11,15 +11,15 @@ Amend the Timer.js component file to add state variables, a function to set the 
 Add your own styling (an empty class **.timerStyle** has been created and you can add layout or other elements)
 
 # Example UI
-[Timer-Example.jpg](https://github.com/futureCodersSE/Timer-Test/blob/main/timer/Timer-Example.jpg)
+![Timer-Example.jpg](https://github.com/futureCodersSE/Timer-Test/blob/main/timer/Timer-Example.jpg)
 
 # To complete the test
 Fork this repository  
-Run npm install
+Run npm install  
 Run npm start and let us know if there are any problems with running the code  
 Run npm test (the two tests in Timer.test.js should fail, the test for App rendering should pass)  
 Add your code  
 Ensure that all tests pass  
-Push to a repository in your own Github account.  
-Send us an email with a link to your repository.
+Push to a repository in your own Github account  
+Send us an email with a link to your repository  
 
