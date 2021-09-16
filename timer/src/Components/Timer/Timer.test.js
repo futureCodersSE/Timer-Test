@@ -18,6 +18,6 @@ describe("Timer", () => {
     let timer1 = setTimeout(() => waitForLoad(), 1000)
 
     it('should show a time after load', () => {
-        expect(element.textContent).toBe("--:--:--");
+        expect(element.textContent).not.toBe("--:--:--");
     });
 })
